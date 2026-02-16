@@ -15,6 +15,8 @@ High model accuracy is valuable, but interpretability and actionable insights ar
 
 **Lessons learned**
 
-Implement more extensive hyperparameter tuning and model comparison.
-Develop a clearer deployment or monitoring strategy, including how the model would be updated over time.
-Conduct deeper feature engineering to potentially improve predictive performance.
+- Implement more extensive hyperparameter tuning and model comparison.
+  
+- Develop a clearer deployment or monitoring strategy, including how the model would be updated over time.
+  
+- Conduct deeper feature engineering to potentially improve predictive performance.
